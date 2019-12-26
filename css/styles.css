@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: cursive;
+}
+
+h1{
+margin: auto;
+}
+.upper
+{
+margin-top: 0;
+
+  background-color: #f9b282;
+position: relative;
+  padding : 100px;
+  border-color: black;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.bottomcloud{
+  position: absolute;
+    left: 400px;
+    bottom: 350px;
+}
+.topcloud{
+position: absolute;
+right: 400px;
+top: 50px;
+}
